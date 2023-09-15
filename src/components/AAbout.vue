@@ -64,7 +64,6 @@
       </span>
   </div>
   <div class="about-image">
-    <img src="https://azarzalejo.com/wp-content/uploads/2023/05/alex_2023_web4.jpg" alt="">
   </div>
 </section>
 </template>
